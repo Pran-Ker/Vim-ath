@@ -22,8 +22,10 @@ To install DataScienceVim, follow these steps:
 `git clone https://github.com/Pran-Ker/Vim-ath.git`
 
 2. Navigate to the cloned repository
+`cd Vim-ath`
 
 3. Run the installation script
+`./install.sh`
 
 4. Start Vim and enjoy the enhanced data science capabilities!
 
